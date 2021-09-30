@@ -1,6 +1,6 @@
 - 👋 Hi, I’m J_Vivek
 - 👀 I’m interested in Machine learning, Deep learning and Artificial intelligence leveraging expertise in Healthcare and agriculture sector
-- 🌱 I’m currently learning AIML and cloud computing
+- 🌱 I’m currently working in implementation of AIML and cloud computing in healthcare domain for better treatment possibilities
 - 💞️ I’m looking to collaborate on Healthcare projects comprising image analysis and NLP based approches.
 - 📫 How to reach me vsjvictor@gmail.com
 
